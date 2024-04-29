@@ -14,13 +14,13 @@ This is a simple Python program that allows you to perform Google searches using
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/voice-controlled-google-search.git
+    git clone https://github.com/sadick-yakubu/google_voice_search_bot.git
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd voice-controlled-google-search
+    cd google_voice_search_bot
     ```
 
 3. Install dependencies:
